@@ -1,10 +1,3 @@
----
-- name:
-hosts: localhost
-  gather_facts: false
-
-  tasks:
-
-  - name:
-    debug:
-      msg: "Hello {{ inventory_hostname }}"
+three
+two
+  one
