@@ -1,4 +1,2 @@
-localhost
-
 [servers]
 inventory4-no-ini-extension ansible_hosts=10.2.0.50
