@@ -1,5 +1,4 @@
---
-- name:
+--name:
   hosts: localhost
   gather_facts: false
 
