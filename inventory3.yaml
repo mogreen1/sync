@@ -4,7 +4,7 @@ all:
   children:
     servers:
       hosts:
-        with-yaml-extension:
+        inventory3-with-yaml-extension:
           ansible_host: 10.2.0.143
           ansible_user: ec2-user
 
